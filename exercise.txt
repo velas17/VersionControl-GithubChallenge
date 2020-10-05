@@ -1,0 +1,3 @@
+1. Terminal is a command system in your computer that allows you to make changes to your operating system.
+2.Git lets you look at your coding history and github is a platform that allows you to showcase your projects.
+3. We use github to share our projects and receive feedback from others and outr peers.
